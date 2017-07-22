@@ -53,7 +53,7 @@ Doc
 Naming
 ------
 
-The name comes from tea (Ceylon) and ant (Java build tool)."""
+The name comes from tea (Ceylon) and ant (Java build tool).
 
 License
 -------
